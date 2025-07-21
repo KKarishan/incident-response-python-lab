@@ -189,11 +189,11 @@ SLACK_WEBHOOK_URL=your_slack_webhook_url_here
 
 | Day | Topic                          | Guide Link                                          |
 | --- | ------------------------------ | --------------------------------------------------- |
-| 1️⃣ | Windows Log Collection         | [Day 1 Guide](/incident-response-python-lab/guide/day1_windows_log_collection.md) |
-| 2️⃣ | Log Parsing with Python        | [Day 2 Guide](/incident-response-python-lab/guide/day2_log_parsing.md)            |
-| 3️⃣ | IOC Enrichment with VirusTotal | [Day 3 Guide](/incident-response-python-lab/guide/day3_ioc_enrichment.md)         |
-| 4️⃣ | Report Generation              | [Day 4 Guide](/incident-response-python-lab/guide/day4_report_generation.md)      |
-| 5️⃣ | Slack Alerts Integration       | [Day 5 Guide](/incident-response-python-lab/guide/day5_integrate_slack.md)      |
+| 1️⃣ | Windows Log Collection         | [Day 1 Guide](/guide/day1_windows_log_collection.md) |
+| 2️⃣ | Log Parsing with Python        | [Day 2 Guide](/guide/day2_log_parsing.md)            |
+| 3️⃣ | IOC Enrichment with VirusTotal | [Day 3 Guide](/guide/day3_ioc_enrichment.md)         |
+| 4️⃣ | Report Generation              | [Day 4 Guide](/guide/day4_report_generation.md)      |
+| 5️⃣ | Slack Alerts Integration       | [Day 5 Guide](/guide/day5_integrate_slack.md)      |
 
 ---
 
