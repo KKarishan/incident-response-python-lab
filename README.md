@@ -204,9 +204,9 @@ All screenshots are stored in the `assets/screenshots/day_0*` folder. Use them w
 Example:
 
 ```markdown
-![VirusTotal Script Run](/incident-response-python-lab/assets/screenshots/day_03/day03_script_running_enrichment.png)
+![VirusTotal Script Run](/assets/screenshots/day_03/day03_script_running_enrichment.png)
 ```
-![VirusTotal Script Run](/incident-response-python-lab/assets/screenshots/day_03/day03_script_running_enrichment.png)
+![VirusTotal Script Run](/assets/screenshots/day_03/day03_script_running_enrichment.png)
 
 | Screenshot                   | Description                                   |
 | ---------------------------- | --------------------------------------------- |
