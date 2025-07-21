@@ -10,7 +10,7 @@
 
 ## 📋 Prerequisites
 
-✅ Finished [**Day 3: IOC Enrichment**](./day3_ioc-enrichment.md)
+✅ Finished [**Day 3: IOC Enrichment**](/guide/day3_ioc_enrichment.md)
 ✅ `enriched_iocs.json` and `parsed_log.json` present
 ✅ Python + `pandas` installed:
 
