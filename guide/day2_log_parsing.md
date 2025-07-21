@@ -15,7 +15,7 @@ Store results in a structured JSON format for further analysis.
 
 ## 📋 **Prerequisites**
 
-✅ Completed [**Day 1: Windows Log Collection**](../guide/day1_windows-log-collection.md)
+✅ Completed [**Day 1: Windows Log Collection**](/incident-response-python-lab/guide/day1_windows_log_collection.md)
 ✅ `failed_logins.txt` file exists in your working directory
 ✅ Python **3.10+** installed
 ✅ Familiarity with **regular expressions**
