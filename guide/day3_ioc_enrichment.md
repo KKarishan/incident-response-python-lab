@@ -10,7 +10,7 @@
 
 ## 📋 Prerequisites
 
-✅ Completed [**Day 2: Log Parsing**](/guide/day2_log-parsing.md)
+✅ Completed [**Day 2: Log Parsing**](/guide/day2_log_parsing.md)
 ✅ `extracted_ips.json` present in your project
 ✅ **VirusTotal API Key** (Free tier: **4 requests/minute**)
 ✅ Python packages installed:
