@@ -258,8 +258,3 @@ reports/*.json
 * [pandas Documentation](https://pandas.pydata.org/docs/)
 * [Python Dotenv](https://pypi.org/project/python-dotenv/)
 
----
-
-## 🧑‍💻 Contributors
-
-Created and maintained by students and instructors for cybersecurity automation training.
